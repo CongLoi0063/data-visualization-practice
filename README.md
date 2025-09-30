@@ -7,4 +7,5 @@ Trong nghiên cứu này, chúng tôi
  tiếp cận khoa học dữ liệu gồm tiền xử lý, trực quan
  hóa bằng biểu đồ và mô hình hóa. Để ta có những cái
  nhìn trực quan nhất về bộ dữ liệu cũng như nhưng
- mô hình học máy để giải quyết vấn đ
+ mô hình học máy để giải quyết vấn đề
+file báo cáo kèm theo là file pdf
